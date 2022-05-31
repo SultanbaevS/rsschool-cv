@@ -18,3 +18,12 @@
   My goal is to gain knowledge in the field of front-end development.
 
   ----
+
+  ## Skills and Proficiency:
+   * HTML5, CSS3
+   * Git, GitHub
+   * VS Code, Figma
+
+   ----
+
+   
