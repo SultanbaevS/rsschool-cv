@@ -1,3 +1,4 @@
+[20220531-062614.jpg](https://postimg.cc/NyFq8Ns3)
 # Saidrasul Sultanbaev  
 
 ## Junior Frontend Developer
