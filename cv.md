@@ -40,3 +40,11 @@
  * HTML and CSS Tutorials on the [w3schools](https://www.w3schools.com/) (in progress)
 
 ----
+
+## Languages:
+ * __Uzbek__ - Native
+ * __Rusian__ - Advanced
+ * __Turkish__ - Intermediate
+ * __English__ - Basic
+
+ ----
