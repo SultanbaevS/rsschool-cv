@@ -41,3 +41,10 @@
 
 ----
 
+## Languages:
+ * Uzbek - Native
+ * Rusian - Advanced
+ * Turkish - Intermediate
+ * English - Basic
+
+----
