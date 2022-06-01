@@ -11,10 +11,17 @@
  * GitHub: [SultanbaevS](https://github.com/SultanbaevS/)  
  * Discord: [Said_S](https://discord.com/@Said_S)
 
- ----
- 
+----
+
  ## About Me
   My name is Saidrasul, I'm 22 years old and i live in Tashkent.  
   My goal is to gain knowledge in the field of front-end development.
 
-  ----
+----
+
+## Skills and Proficiency:
+   * HTML5, CSS3
+   * Git, GitHub
+   * VS Code, Figma
+
+----
