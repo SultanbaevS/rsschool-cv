@@ -34,3 +34,10 @@
  ````
 
 ----
+
+## Courses:
+ * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+ * HTML and CSS Tutorials on the [w3schools](https://www.w3schools.com/) (in progress)
+
+----
+
