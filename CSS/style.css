@@ -59,7 +59,8 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
    flex-direction: column;
    justify-content: flex-start;
    align-items: center;
-   padding: 0px 60px;
+   margin: 0 auto;
+   padding: 0px 70px;
 }
 /* ========================== */
 .body {
@@ -144,9 +145,11 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 }
 .main-titles {
    display: inline-block;
+   font-size: 20px;
+   font-weight: 500;
+   line-height: 1.4;
    padding: 5px 10px;
    margin-bottom: 25px;
-   font-size: 20px;
    color: #fff;
    border: solid #fff 3px;
 }
@@ -173,6 +176,8 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 .dark ul {
    margin-left: 10px;
    font-size: 16px;
+   font-weight: 400;
+   line-height: 1.2;
 }
 .dark li {
    display: flex;
@@ -190,14 +195,74 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
    left: 200px;
    color: gold;
 }
-
-
-
-
-
-
-
-/* .footer {
+/* =============================== */
+.right-column-content {
+}
+.main-about-me {
+}
+.main-sections {
+}
+.main-titles-red {
+   display: inline-block;
+   font-size: 20px;
+   font-weight: 500;
+   line-height: 1.4;
+   padding: 5px 10px;
+   margin-bottom: 30px;
+   color: #AF1B2D;
+   border: solid #AF1B2D 3px;
+}
+.about-me-text {
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 1.4;
+   margin-bottom: 20px;
+}
+.main-education {
+}
+.education-list {
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 1.8;
+}
+.education-item {
+}
+.main-code-example {
+}
+.code-example-title {
+}
+.code-example-block {
+   width: 100%;
+   max-height: 174px;
+   overflow-x: auto;
+   background-color: #1d262d;
+   padding: 10px;
+   border-radius: 10px;
+   color: #fff;
+}
+.litblue {
+   color: lightskyblue;
+}
+.orange {
+   color: orange;
+}
+.lightgreen {
+   color: lightgreen;
+}
+.yellow {
+   color: yellow;
+}
+.red {
+   color: red;
+}
+.violet {
+   color: violet;
+}
+.green {
+   color: green;
+}
+/* ======================================== */
+.footer {
    display: flex;
    background-color: #AF1B2D;
 }
@@ -207,4 +272,4 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 }
 .footer-left {
    padding: 50px;
-} */
+}
