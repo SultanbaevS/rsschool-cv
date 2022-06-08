@@ -146,6 +146,9 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 .main-sections {
    padding: 50px;
 }
+.main-sections-right {
+   padding: 35px 25px;
+}
 .main-titles {
    display: inline-block;
    font-size: 20px;
@@ -220,7 +223,14 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
    font-weight: 400;
    line-height: 1.8;
 }
-
+.projects-link {
+   display: block;
+   font-size: 16px;
+   color: #AF1B2D;
+}
+.main-projects a:visited {
+   color: #AF1B2D;
+}
 .code-example-block {
    width: 100%;
    max-height: 180px;
